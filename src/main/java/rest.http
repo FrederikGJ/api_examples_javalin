@@ -1,0 +1,8 @@
+//dette er en anden måde at teste api. men postman er sjovere.
+
+GET http://localhost:7500/html
+###
+//GET http://localhost:7500/json
+###
+GET http://localhost:7500/render
+
